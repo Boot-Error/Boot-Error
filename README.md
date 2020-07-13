@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Boot-Error/Boot-Error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Rust Programming language
 - 👯 I’m looking to collaborate on maintaining projects in Python.
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: booterror99@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Arch Linux
--->
+
