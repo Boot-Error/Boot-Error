@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on building Differentially Private APIs for products at [BlockAppsAI](https://github.com/BlockAppsAI/)
 - 🌱 I’m currently learning Rust Programming language
 - 👯 I’m looking to collaborate on maintaining projects in Python.
 - 🤔 I’m looking for help with building better command line utilities.
